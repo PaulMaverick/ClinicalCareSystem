@@ -1,5 +1,10 @@
 section
     {
-        background-color: beige;
         height: 100vh;
+    }
+
+form button a
+    {
+      text-decoration: none;  
+      color: black;
     }
